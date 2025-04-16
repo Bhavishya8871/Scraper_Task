@@ -1,0 +1,50 @@
+[
+    {
+        "category": "Computers",
+        "name": "Toshiba Porteg...",
+        "price": "$1203.41",
+        "rating": 0,
+        "reviews": 13,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/124"
+    },
+    {
+        "category": "Computers",
+        "name": "Lenovo V110-15...",
+        "price": "$409.63",
+        "rating": 0,
+        "reviews": 9,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/74"
+    },
+    {
+        "category": "Computers",
+        "name": "Asus VivoBook...",
+        "price": "$468.56",
+        "rating": 0,
+        "reviews": 1,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/85"
+    },
+    {
+        "category": "Phones",
+        "name": "Samsung Galaxy",
+        "price": "$93.99",
+        "rating": 0,
+        "reviews": 3,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/3"
+    },
+    {
+        "category": "Phones",
+        "name": "Iphone",
+        "price": "$899.99",
+        "rating": 0,
+        "reviews": 1,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/9"
+    },
+    {
+        "category": "Phones",
+        "name": "Nokia 123",
+        "price": "$24.99",
+        "rating": 0,
+        "reviews": 11,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/1"
+    }
+]
